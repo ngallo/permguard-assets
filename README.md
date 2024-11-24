@@ -1,3 +1,3 @@
-# PermGuard Trade Mark and Logo Assets
+# Permguard Trade Mark and Logo Assets
 
-This repository contains the official trade mark and logo assets for the PermGuard project.
+This repository contains the official trade mark and logo assets for the Permguard project.
