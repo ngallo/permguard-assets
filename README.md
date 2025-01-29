@@ -3,7 +3,7 @@
 This repository contains the official trade mark and logo assets for the Permguard project.
 
 ---
-The trademark "PermGuard" and its associated logo(s), as contained in this repository, are the exclusive intellectual property of Nitro Agility Srl.
+The trademark "Permguard" and its associated logo(s), as contained in this repository, are the exclusive intellectual property of Nitro Agility Srl.
 
 All rights reserved. Unauthorized use, reproduction, or distribution of the "Permguard" trademark and its associated logo(s) is strictly prohibited.
 
